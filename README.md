@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ross Dederer
 - 👀 I’m interested in hiking, fishing, camping, and coding.
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on anything.
 
 
 <!---
